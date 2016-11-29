@@ -13,3 +13,4 @@ Modules:
 
 Administration Menu - Make drupal administration menu toolbar to become more fast access with dropdown from
 Coffee - Shortcut key to access drupal administration menu
+Jquery Update - (Optional) - Upgrades the version of jQuery in Drupal core to a newer version of jQuery
