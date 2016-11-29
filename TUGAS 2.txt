@@ -1,0 +1,15 @@
+TUGAS 2
+
+Review video tutorial Drupal-Bootstrap
+
+1. Catat semua module yang diperlukan
+2. Jelaskan fungsi setiap module yang diinstall
+
+Diupload di github dengan username berupa NIM
+
+***
+
+Modules:
+
+Administration Menu - Make drupal administration menu toolbar to become more fast access with dropdown from
+Coffee - Shortcut key to access drupal administration menu
