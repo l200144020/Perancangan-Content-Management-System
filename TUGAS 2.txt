@@ -55,3 +55,52 @@ Module Filter
 https://www.drupal.org/project/module_filter
 This module is to find, search, activate, deactivate, manage drupal module easier.
 
+Views
+https://www.drupal.org/project/views
+To create views for drupal
+
+Chaos tool suite (ctools)
+https://www.drupal.org/project/ctools
+(Required by Views module) This suite is primarily a set of APIs and tools to improve the developer experience. It also contains a module called the Page Manager whose job is to manage pages. In particular it manages panel pages, but as it grows it will be able to manage far more than just Panels.
+
+Views Bootstrap
+https://www.drupal.org/project/views_bootstrap
+This module is to create components following the theme structure of the Bootstrap framework all within the configuration settings of the powerful Views module.
+
+DraggableViews
+https://www.drupal.org/project/draggableviews
+This module makes rows of a view "draggable" which means that they can be rearranged by Drag'n'Drop.
+
+Entity API
+https://www.drupal.org/project/entity
+This module extends the entity API of Drupal core in order to provide a unified way to deal with entities and their properties. Additionally, it provides an entity CRUD controller, which helps simplifying the creation of new entity types.
+
+CKEditor Link - A plugin to easily create links to Drupal internal paths
+https://www.drupal.org/project/ckeditor_link
+This module allows to easily create links to Drupal internal paths through CKEditor's Link button and dialog
+
+Block Class
+https://www.drupal.org/project/block_class
+This module allows users to add classes to any block through the block's configuration interface.
+
+Plupload integration
+https://www.drupal.org/project/plupload
+This module allows users to upload multiple images.
+
+Devel
+https://www.drupal.org/project/devel
+This module provide helper functions for Drupal developers and inquisitive admins.
+
+Image URL Formatter
+https://www.drupal.org/project/image_url_formatter
+This module add a url formatter for image field. Then you can output image url directly.
+
+Equal Heights jQuery
+https://www.drupal.org/project/equalheights
+This module implements a jQuery Equal Heights plugin that can equalize the height of the elements of the specified class.
+
+Libraries API
+https://www.drupal.org/project/libraries
+(Requited by Equal Heights jQuery module) The common denominator for all Drupal modules/profiles/themes that integrate with external libraries.
+
+
