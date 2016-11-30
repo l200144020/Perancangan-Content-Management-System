@@ -13,24 +13,45 @@ Modules:
 
 Administration Menu
 https://www.drupal.org/project/admin_menu
-Make drupal administration menu toolbar to become more fast access with dropdown form
+Make drupal administration menu toolbar to become more fast access with dropdown form.
 
 Coffee
 https://www.drupal.org/project/coffee
-Shortcut key to access drupal administration menu
+Shortcut key to access drupal administration menu.
 
 Jquery Update
 https://www.drupal.org/project/jquery_update
-(Optional) Upgrades the version of jQuery in Drupal core to a newer version of jQuery
+(Optional) Upgrades the version of jQuery in Drupal core to a newer version of jQuery.
 
 Bootstrap Library
 https://www.drupal.org/project/bootstrap_library
-(Optional) To manage bootstrap source file
+(Optional) To manage bootstrap source file.
 
 CKEditor
 https://www.drupal.org/project/ckeditor
-Add WYSIWYG HTML Editor / HTML visual editor to drupal text field
+Add WYSIWYG HTML Editor / HTML visual editor to drupal text field.
 
 IMCE
 https://www.drupal.org/project/imce
-Add image/file uploader and browser to drupal
+Add image/file uploader and browser to drupal.
+
+Empty Front Page
+https://www.drupal.org/project/empty_front_page
+This module modifies drupal behavior to show no default content on the frontpage and only display the blocks.
+
+Special menu items
+https://www.drupal.org/project/special_menu_items
+This module provides placeholder and separator menu items. A placeholder is a menu item which is not a link. A separator menu item is something like "-------" which is not linking anywhere but merely a mean to structure menus and "separate" menu items visually.
+
+Pathauto
+https://www.drupal.org/project/pathauto
+This module automatically generates URL/path aliases for various kinds of content (nodes, taxonomy terms, users) without requiring the user to manually specify the path alias. This allows you to have URL aliases like /category/my-node-title instead of /node/123. The aliases are based upon a "pattern" system that uses tokens which the administrator can change.
+
+Token
+https://www.drupal.org/project/token
+(Required by Pathauto module) Provides additional tokens not supported by core (most notably fields), as well as a UI for browsing tokens.
+
+Module Filter
+https://www.drupal.org/project/module_filter
+This module is to find, search, activate, deactivate, manage drupal module easier.
+
