@@ -103,40 +103,82 @@ Libraries API
 https://www.drupal.org/project/libraries
 (Requited by Equal Heights jQuery module) The common denominator for all Drupal modules/profiles/themes that integrate with external libraries.
 
-admin_menu
-admin_views
-adminimal_admin_menu
-block_class
-bootstrap_fieldgroup
-ckeditor
-ckeditor_link
-coffee
-ctools
-devel
-dragableviews
-ds
-empty_front_page
-entity
-equalheights
-faq
-field_formatter_class
-field_formatter_settings
-field_group
-filefield_sources
-filefield_sources_plupload
-fontawesome
-icon
-image_url_formatter
-imce
-jquery_update
-libraries
-module_filter
-pathauto
-plupload
-special_menu_items
-token
-token_filter
-views
-views_bootstrap
-views_bulk_operation
-webform
+Administration Views
+https://www.drupal.org/project/admin_views
+Replaces administrative overview/listing pages with actual views for superior usability.
+
+Adminimal Administration Menu
+https://www.drupal.org/project/adminimal_admin_menu
+Adminimal Administration Menu changes the style of the Administration menu module. It adds a nice and simple minimalist look and provides some tweaks to improve your Drupal administration experience. 
+
+Block Class
+https://www.drupal.org/project/block_class
+Block Class allows users to add classes to any block through the block's configuration interface. By adding a very short snippet of PHP to a theme's block.tpl.php file, classes can be added to the parent <div class="block ..."> element of a block. Hooray for more powerful block theming!
+
+Bootstrap fieldgroup
+https://www.drupal.org/project/bootstrap_fieldgroup
+This module adds a new set of formatters to the Field Group options when
+configuring a view mode display, to render field groups with Bootstrap markup.
+The formatters can be applied to the node create/edit form, as well as on
+display.
+
+
+CKEditor Link
+https://www.drupal.org/project/ckeditor_link
+This module allows to easily create links to Drupal internal paths through CKEditor's Link button and dialog.
+
+
+Display Suite
+https://www.drupal.org/project/ds
+Display Suite allows you to take full control over how your content is displayed using a drag and drop interface. Arrange your nodes, views, comments, user data etc. the way you want without having to work your way through dozens of template files.
+
+Frequently Asked Questions
+https://www.drupal.org/project/faq
+The Frequently Asked Questions (faq) module allows users, with appropriate permissions, to create question and answer pairs which they want displayed on the 'faq' page. The 'faq' page is automatically generated from the FAQ nodes configured. Basic Views layouts are also provided and can be customised via the Views UI (rather than via the module settings page).
+
+Field Formatter Class
+https://www.drupal.org/project/field_formatter_class
+Allows site administrators to add classes to the outer HTML wrapper for any field display, so that CSS and Javascript can target them.
+
+Field formatter settings
+https://www.drupal.org/project/field_formatter_settings
+The Field API in Drupal core lacks the ability for other modules to easily alter field formatter settings forms and the formatter summaries. This module is a small API provider for other modules since it's too late to get the hooks into Drupal 7 core.
+
+
+Field Group
+https://www.drupal.org/project/field_group
+Fieldgroup will, as the name implies, group fields together. All fieldable entities will have the possibility to add groups to wrap their fields together. Fieldgroup comes with default HTML wrappers like vertical tabs, horizontal tabs, accordions, fieldsets or div wrappers.
+
+FileField Sources
+https://www.drupal.org/project/filefield_sources
+FileField Sources is an extension to the FileField module. The FileField module lets you upload files from your computer through a CCK field. The FileField Sources module expands on this ability by allowing you to select new or existing files through additional means, including:
+
+
+FileField Sources Plupload
+https://www.drupal.org/project/filefield_sources_plupload
+FileField Sources Plupload lets you add Plupload (a multiple files/multifile upload widget) as a source to any file field supporting FileField Sources.
+
+Font Awesome Icons
+https://www.drupal.org/project/fontawesome
+Display fontawesome font and icons, <i class="icon-twitter"></i> Twitter
+
+Icon API
+https://www.drupal.org/project/icon
+This module provides integration for icon bundles and icon providers throughout Drupal.
+
+
+Image URL Formatter
+https://www.drupal.org/project/image_url_formatter
+This module add a url formatter for image field. Then you can output image url directly.
+
+Token Filter
+https://www.drupal.org/project/token_filter
+Token Filter is a very simple module to make token values available as an input filter.
+
+Views Bulk Operations (VBO)
+https://www.drupal.org/project/views_bulk_operations
+This module augments Views by allowing bulk operations to be executed on the displayed rows. It does so by showing a checkbox in front of each node, and adding a select box containing operations that can be applied. Drupal Core or Rules actions can be used.
+
+Webform
+https://www.drupal.org/project/webform
+Webform is the module for making forms and surveys in Drupal. After a submission, users may be sent an e-mail "receipt" as well as sending a notification to administrators. Results can be exported into Excel or other spreadsheet applications. Webform also provides some basic statistical review and has an extensive API for expanding its features.
